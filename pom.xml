@@ -15,8 +15,8 @@
 
 	<scm>
 		<url>https://github.com/Premvikash/</url>
-		<connection>scm:git:git://github.com/Premvikash/devops01.git</connection>
-		<developerConnection>scm:git:git@github.com/Premvikash/devops01.git</developerConnection>
+		<connection>scm:git:git://github.com/Premvikash/java-maven-ci.git</connection>
+		<developerConnection>scm:git:git@github.com/Premvikash/java-maven-ci.git</developerConnection>
 	</scm>
 
 	<properties>

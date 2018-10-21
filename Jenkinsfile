@@ -5,7 +5,7 @@ pipeline {
     stages {
         stage('Preparation') {
             steps {
-            git 'https://github.com/Premvikash/devops01.git'
+            git 'https://github.com/Premvikash/java-maven-ci.git'
             }
         }
         stage('Build') {
